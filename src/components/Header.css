@@ -1,0 +1,17 @@
+.order-link {
+    background-color: rgb(238, 174, 37);
+    color: #ffffff;
+    font-weight: bold;
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    text-decoration: none; 
+    margin-left: auto; 
+    display: inline-block; 
+  }
+  
+  .order-link:hover {
+    background-color: #f0d300; 
+    text-decoration: none; 
+  }
+
+

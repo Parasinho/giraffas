@@ -1,0 +1,43 @@
+h2 {
+    color:rgb(238, 174, 37);
+    
+  }
+  
+  h3 {
+    margin-top: 7rem;
+    margin-left: 400px;
+    color: rgb(238, 174, 37);
+   
+  }
+
+  p{
+    margin-left: 403px;
+    color: rgb(184, 134, 27) ;
+  }
+
+  .redes{
+    margin-top: 3rem;
+    
+  }
+
+  .encontrar{
+    margin-top: 3rem;
+    padding-left: 2rem;
+    color: rgb(238, 174, 37);
+  }
+
+  .localiza {
+    background-color: rgb(238, 174, 37);
+    color: #ffffff;
+    font-weight: bold;
+    padding: 10px 150px; 
+    border-radius: 5px; 
+    text-decoration: none; 
+    margin-left: auto; 
+    display: inline-block; 
+  }
+
+  h5{
+    color: rgb(238, 174, 37);
+  }
+

@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  background-color: rgb(255, 184, 28);
+}
+
+.navbar-brand img {
+  height: 50px;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: rgb(255, 184, 28);
+  padding: 20px 0;
+}
